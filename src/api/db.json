@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "name": "xyz",
+      "email": "xyz@com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "email": "test@test.com",
+      "password": "1234"
+    },
+    {
+      "name": "tejaswini",
+      "email": "teju@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "name": "teju",
+      "email": "acd@wa.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "teju",
+      "email": "acd@abc.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@com",
+      "password": "123",
+      "id": 11
+    }
+  ],
+  "mobiles": [
+    {
+      "id": "1662023711235",
+      "model": "a6+",
+      "ram": "4gb",
+      "rom": "16gb"
+    },
+    {
+      "id": "1662023711345",
+      "model": "a6",
+      "ram": "4gb",
+      "rom": "16gb"
+    },
+    {
+      "id": "1663155128373",
+      "model": "a5",
+      "ram": "4gb",
+      "rom": "16gb"
+    },
+    {
+      "id": "1663214611837",
+      "model": "a7",
+      "ram": "8gb",
+      "rom": "100gb"
+    },
+    {
+      "id": "1663215870005",
+      "model": "a7+",
+      "ram": "8gb",
+      "rom": "128gb"
+    },
+    {
+      "id": "1663263372913",
+      "model": "a8",
+      "ram": "10gb",
+      "rom": "136gb"
+    },
+    {
+      "id": "1663562152172",
+      "model": "a8+",
+      "ram": "16gb",
+      "rom": "128gb"
+    },
+    {
+      "id": "1663581511270",
+      "model": "a9",
+      "ram": "18gb",
+      "rom": "150gb"
+    }
+  ]
+}

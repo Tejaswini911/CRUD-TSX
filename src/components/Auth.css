@@ -1,0 +1,14 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 40%;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: thin;
+    border-color: blue;
+    box-shadow: 18px 18px 5px 5px rgb(174 197 216 / 46%);
+}
